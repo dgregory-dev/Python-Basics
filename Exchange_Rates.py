@@ -1,0 +1,7 @@
+# Exchange rates
+USD_TO_EUR = 0.92
+USD_TO_GBP = 0.79
+USD_TO_JPY = 151.56
+USD_TO_CAD = 1.35
+USD_TO_AUD = 1.52
+USD_TO_CHF = 0.89
